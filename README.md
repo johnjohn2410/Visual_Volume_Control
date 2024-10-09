@@ -1,4 +1,4 @@
-# Visual Volume Control
+# Visual Volume Control for ios
 
 A Python application that allows you to control your Mac's volume using hand gestures detected via your webcam. This project leverages OpenCV and MediaPipe for real-time hand tracking and uses AppleScript to adjust the system volume on macOS.
 
