@@ -18,12 +18,12 @@ A Python application that allows you to control your Mac's volume using hand ges
 
 - Real-time hand detection and tracking using MediaPipe.
 - Gesture recognition to control system volume:
-  - **Increase volume** by moving your thumb and index finger apart.
-  - **Decrease volume** by bringing your thumb and index finger closer together.
+  - ** Increase volume** by moving your thumb and index finger apart.
+  - ** Decrease volume** by bringing your thumb and index finger closer together.
 - Visual feedback with OpenCV:
   - Displays webcam feed with overlays indicating detected landmarks.
   - Shows a volume bar and percentage on the screen.
-- **Supports using your iPhone as a webcam via Continuity Camera.**
+- ** Supports using your iPhone as a webcam via Continuity Camera.**
 - Cross-platform compatibility focused on **macOS**.
 
 
