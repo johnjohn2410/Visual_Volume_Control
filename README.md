@@ -34,7 +34,7 @@ A Python application that allows you to control your Mac's volume using hand ges
 - **MediaPipe** (`mediapipe`)
 - **NumPy** (`numpy`)
 
-## Installation
+### Installation
 
 ### 1. Clone the Repository
 
